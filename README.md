@@ -5,6 +5,7 @@ Surviving the nine courses which make up the [Data Science Specialization][0001]
 2. an introduction to the tools and techniques to transform raw data into a presentable report,
 4. an opportunity to gain hands-on practice so you can learn the techniques for yourself, and
 3. an appreciation of the mathematics & statistics involved in data science.
+Git is easy. Git is fun. Thanks Linus!
 ## Core Courses
 The courses comprising the Data Science Specialization are:
 * Data Scientist's Toolbox
